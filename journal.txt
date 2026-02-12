@@ -1,7 +1,2 @@
-<<<<<<< Updated upstream
-"Today, Fido the dog decided too. . ."
-"bark at a squirrel!"s
-=======
-"Today, Rush the dog decided too. . ."
+"Today, John the human and Rush the dog decided too . . ."
 "bark at a squirrel!"
->>>>>>> Stashed changes
